@@ -16,7 +16,6 @@
 
 
 # Projects:
-- [Machine Learning]()
-- [Neural Networks]()
-- [Car Pi](https://github.com/Akhil353/CarPi)
+- [Autonomous Vehicle Research](https://github.com/Akhil353/CarPi)
+- [Peptide Research](https://github.com/Peptidereaserch/Peptides)
 - [Group Frontend/Backend Development](https://github.com/orgs/CSA-Coders-2025/teams/period-3-student-group-management/repositories)
