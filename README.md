@@ -16,5 +16,5 @@
 
 # Projects:
 - [Autonomous Vehicle Research](https://github.com/Akhil353/CarPi)
-- [Peptide Research]([https://github.com/Peptidereaserch/Peptides](https://github.com/Akhil353/Peptide))
-- [Group Frontend/Backend Development]([https://github.com/orgs/CSA-Coders-2025/teams/period-3-student-group-management/repositories](https://github.com/Akhil353/TrendTalk-Frontend))
+- [Peptide Research](https://github.com/Akhil353/Peptide)
+- [Group Frontend](https://github.com/Akhil353/TrendTalk-Frontend)   [Backend Development](https://github.com/Akhil353/TrendTalk-Backend)
