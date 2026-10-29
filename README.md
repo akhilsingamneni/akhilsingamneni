@@ -21,6 +21,6 @@
 
 # Projects:
 - [WiscoHumanoids Locomotion Work](https://github.com/akhilsingamneni/unitree_ws)
-- [Autonomous Vehicle Research](https://github.com/Akhil353/CarPi)
+- [Autonomous Vehicle Research](https://github.com/Harkirat47/CARPY/commits/main/)
 - [Peptide Research](https://github.com/Akhil353/Peptide)
 - [Group Frontend](https://github.com/Akhil353/TrendTalk-Frontend)   [Backend Development](https://github.com/Akhil353/TrendTalk-Backend)
